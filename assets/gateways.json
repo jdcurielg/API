@@ -1,0 +1,71 @@
+[
+  {
+      
+      "serial": "XM60",
+      "name": "gateway 1",
+      "ipv4": "192.168.1.2",
+      "pdevices": []
+      
+  },
+  {
+      
+      "serial": "Xh70",
+      "name": "gateway 5",
+      "ipv4": "152.168.15.2",
+      "pdevices": [
+          {
+              "uid": 300,
+              "createdDate": "2016-02-19T05:00:00.000Z",
+              "vendor": "Vendor",
+              "status": true
+              
+          }
+      ]
+  },
+  {
+      
+      "serial": "u770",
+      "name": "gateway 3",
+      "ipv4": "152.168.15.23",
+      "pdevices": [
+          {
+              "uid": 34,
+              "createdDate": "2010-02-01T05:00:00.000Z",
+              "vendor": "Vendor",
+              "status": true
+              
+          },
+          {
+              "uid": 344,
+              "createdDate": "2010-05-01T04:00:00.000Z",
+              "vendor": "Vendor",
+              "status": false
+              
+          },
+          {
+              "uid": 64,
+              "createdDate": "2010-10-01T04:00:00.000Z",
+              "vendor": "Vendor",
+              "status": false
+              
+          }
+      ]
+      
+  },
+  {
+     
+      "serial": "u000",
+      "name": "gateway 10",
+      "ipv4": "152.100.15.23",
+      "pdevices": [
+          {
+              "uid": 34,
+              "createdDate": "2010-02-01T05:00:00.000Z",
+              "vendor": "Vendor",
+              "status": true
+              
+          }
+      ]
+      
+  }
+]
